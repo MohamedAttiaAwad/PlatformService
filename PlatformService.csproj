@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>8242e8a7-80fa-4971-ad9e-1f4ab65c5ac5</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+  
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="automapper.extensions.microsoft.dependencyinjection" Version="8.1.1" />
+    <PackageReference Include="microsoft.entityframeworkcore" Version="5.0.12" />
+    <PackageReference Include="microsoft.entityframeworkcore.design" Version="5.0.12">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="microsoft.entityframeworkcore.inmemory" Version="5.0.12" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="5.0.12" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+</Project>
