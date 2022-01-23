@@ -53,7 +53,6 @@ D:\Learning\Microservices\PlatformService\obj\Release\net5.0\PlatformService.csp
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\staticwebassets\PlatformService.StaticWebAssets.Manifest.cache
-D:\Learning\Microservices\PlatformService\obj\Release\net5.0\staticwebassets\PlatformService.StaticWebAssets.xml
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\scopedcss\bundle\PlatformService.styles.css
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\PlatformService.RazorTargetAssemblyInfo.cache
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\PlatformService.csproj.CopyComplete
@@ -62,3 +61,4 @@ D:\Learning\Microservices\PlatformService\obj\Release\net5.0\ref\PlatformService
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\PlatformService.pdb
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\PlatformService.genruntimeconfig.cache
 D:\Learning\Microservices\PlatformService\obj\Release\net5.0\PlatformService.csproj.AssemblyReference.cache
+D:\Learning\Microservices\PlatformService\bin\Release\net5.0\PlatformService.StaticWebAssets.xml

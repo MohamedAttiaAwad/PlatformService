@@ -55,6 +55,8 @@ namespace PlatformService
             {
                 endpoints.MapControllers();
             });
+
+            app.Run
         }
     }
 }
